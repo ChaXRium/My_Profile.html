@@ -3,8 +3,7 @@
         <title>My Profile</title>
     </head>
   <body bgcolor="#FFFFFF">
-
-    <table align="right" border="0" cellspacing="0" cellpadding="5">
+      <table align="right" border="0" cellspacing="0" cellpadding="5">
         <tr height="100" bgcolor="#F5F5F5">
             <td width=100%>
               <h1><b><font color="black"> Charith Rajapaksha</font></b></h1>
@@ -14,18 +13,14 @@
             <td width="75" align="right"><img src="pp.png" width="200" height="200"></td>
         </tr>
     </table>
-
-    <hr>
-
-    <h2><b>Objective</b></h2>
+<hr>
+<h2><b>Objective</b></h2>
     <p><font size=5>I'm a driven and quick-learning Computer Science undergraduate, interested in artificial intelligence and software development. I'm looking for a chance to utilize my problem-solving 
       and programming skills in a challenging setting.</font></p>
-    
     <hr>
+<h2><b>Education</b></h2>
 
-    <h2><b>Education</b></h2>
-
-    <h3>NSBM Green University – BSc (Hons) in Computer Science</h3>
+<h3>NSBM Green University – BSc (Hons) in Computer Science</h3>
     2023-present
     <ul type="square">
       <li>Coursework:</li>
@@ -42,7 +37,7 @@
       </ul>
     </ul>
 
-    <h3>Advanced Level – Physical Science Stream</h3>
+<h3>Advanced Level – Physical Science Stream</h3>
     Mayurapada Central College, Narammala | 2020 – 2022
     <ul type="square">
       <li>Subjects:</li>
@@ -53,11 +48,10 @@
       </ul>
     </ul>
 
-    <hr>
+<hr>
 
-    <h2><b>Technical Skills</b></h2>
-
-      <h3>Languages:</h3>
+<h2><b>Technical Skills</b></h2>
+<h3>Languages:</h3>
       Python, JavaScript, HTML
       <h3>Tools and Platforms:</h3>
       Git, VS Code, Kali Linux, Telegram Bot API
@@ -65,10 +59,9 @@
       OOP, File Handling, Collections, Loops
       <h3>Interest Areas:</h3>
       AI, Computer Vision, Audio Processing
+<hr>
 
-    <hr>
-
-    <h2><b>Projects</b></h2>
+<h2><b>Projects</b></h2>
       <dl>
         <dt><h3>AI Taekwondo Hit Detection System</h3></dt>
         <dd>
@@ -82,10 +75,10 @@
           </ul>
         </dd>
 
-        <dt><h3>Mr. Robot-style Audio Steganography</h3></dt>
+<dt><h3>Mr. Robot-style Audio Steganography</h3></dt>
         <dd></dd>
 
-        <dt><h3>Two-Player JavaScript Chess Game (in progress)</h3></dt>
+<dt><h3>Two-Player JavaScript Chess Game (in progress)</h3></dt>
         <dd></dd>
 
       </dl>
